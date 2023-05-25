@@ -1,0 +1,63 @@
+.headerBar{
+    display:flex;
+    justify-content: space-around;
+    padding: 1.5% 0% 1.5% 0%;
+    border-bottom: 2px solid #000000;
+}
+
+.headerBarLeft{
+    display:flex;
+    justify-content: space-between;
+    width: 60%
+}
+
+.firstPageHeader{
+    display: flex;
+    flex-direction: column;
+    padding-top: 12%;
+    padding-bottom: 15%;
+
+}
+
+.secondScrText{
+    display: flex;
+
+}
+.picRows{
+    display: flex;
+
+}
+.picture{
+    padding: 7%;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+input[type="tel"]
+{
+    font-size:80px;
+    width: 500px;
+}
+.sendButton {
+    border: 0;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0);
+}
+.thirdScrText{
+    display: flex;
+    justify-content: space-around;
+}
+.fourthScrText{
+    display: flex;
+    justify-content: space-between;
+}
+

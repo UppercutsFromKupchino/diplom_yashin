@@ -1,0 +1,121 @@
+.headerBar{
+    display:flex;
+    justify-content: space-between;
+    padding: 1.5% 0% 1% 0%;
+    border-bottom: 2px solid #ffffff;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.headerBarLeft{
+    display:flex;
+    justify-content: space-between;
+    width: 60%;
+    color: #ffffff;
+    font-size: 16px;
+    align-items: center;
+}
+
+.firstPageHeader{
+    display: flex;
+    flex-direction: column;
+    padding-top: 12%;
+    padding-bottom: 15%;
+    color: #ffffff;
+
+}
+
+.secondScrText{
+    display: flex;
+
+}
+.picRows{
+    display: flex;
+
+}
+.picture{
+    padding: 7%;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+input[type="tel"]
+{
+    font-size:80px;
+    width: 500px;
+}
+.sendButton {
+    border: 0;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0);
+}
+.thirdScrText{
+    display: flex;
+    justify-content: space-between;
+}
+.fourthScrText{
+    display: flex;
+    justify-content: space-between;
+}
+.smallText{
+    font-size: 20px;
+}
+#arrow-gallery:hover {
+    transform: rotate(45deg);
+    transition: 0.5s;
+
+}
+.whyList{
+    display: flex;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    width: 50%;
+    margin-top: 5%;
+}
+.whyListLined{
+    display: flex;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 5%;
+    padding-right: 10%;
+    width: 50%;
+
+}
+.whyListNumber{
+    font-size: 45px;
+    font-weight: bold;
+}
+.whyListText{
+    font-size: 35px;
+    margin-left: 5%;
+
+}
+.bigText{
+    font-size: 110px;
+    line-height: 1;
+}
+.namesText{
+    font-size: 45px;
+}
+.nameBlock{
+    background-color: #FFFFFF;
+    width: 31%;
+}
+.bgimg {
+    background-image: url('../images/upperbg.JPG');
+    background-size: 100% auto;
+}
+.socialNetworks{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
